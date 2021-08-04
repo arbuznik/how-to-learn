@@ -322,16 +322,10 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  display: flex;
-}
-
-.footer__column__link {
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: normal;
   text-decoration: none;
   color: #fff;
   align-items: center;
+  display: flex;
 }
 
 .footer__social_icon {
