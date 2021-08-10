@@ -1,0 +1,9 @@
+.techniques {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  border: 1px solid blue;
+  padding: 100px 0 0;
+  width: 80%;
+  margin: auto;
+}

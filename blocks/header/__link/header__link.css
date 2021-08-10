@@ -2,3 +2,9 @@
   color: #2f80ed;
   text-decoration: none;
 }
+
+/* TODO: правильно ли, что псевдокласс описан в в том же файле где и основные стили */
+.header__link:hover {
+  opacity: 0.6;
+  transition: opacity 0.5s;
+}
