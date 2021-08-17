@@ -42,4 +42,5 @@ trim_trailing_whitespace = true
 
 # Possible values - true, false
 
+# true приводит к прыгающему курсору при включенном автосохранении в vscode
 insert_final_newline = true
