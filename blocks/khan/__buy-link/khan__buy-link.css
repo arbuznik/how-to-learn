@@ -4,10 +4,10 @@
   font-size: 30px;
   font-weight: normal;
   color: #2f80ed;
-  height: max-content;
+  transition: opacity 0.5s;
+  align-self: flex-start;
 }
 
 .khan__buy-link:hover {
   opacity: 0.6;
-  transition: opacity 0.5s;
 }
